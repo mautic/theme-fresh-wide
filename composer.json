@@ -5,7 +5,7 @@
   "version": "1.0",
   "keywords": ["mautic","theme"],
   "extra": {
-    "install-directory-name": "fresh-left"
+    "install-directory-name": "fresh-wide"
   },
   "minimum-stability": "dev",
   "require": {
